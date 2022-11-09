@@ -1,0 +1,49 @@
+h1 {
+    font-family: Arial;
+    color: cornflowerblue;
+}
+
+marquee {
+    font-family: serif;
+    color: red;
+    font-size: xx-large;
+}
+
+p {
+    font-family: Arial;
+    color: black;
+}
+
+a {
+    font-family: Arial;
+    color: blue;
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+html {
+    background-color: azure;
+}
+
+h3 {
+    color: #ace3fa;
+    font-family: Arial;
+}
+
+#Sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    background-color: azure;
+    border: 12px black;
+    top: 0;
+    padding: .5px;
+}
+
+footer {
+    background-color: rgb(32, 31, 31);
+    overflow: hidden;
+    padding: 3px;
+}
